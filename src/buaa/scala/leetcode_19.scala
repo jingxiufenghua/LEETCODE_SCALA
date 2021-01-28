@@ -1,6 +1,6 @@
 package buaa.scala
 
-object hello_world {
+object leetcode_19 {
   def main(args: Array[String]): Unit = {
 
     /*
